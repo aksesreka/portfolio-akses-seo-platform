@@ -8,8 +8,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat&logo=php&logoColor=white)
 
-**Live Demo**: [blogpanel.aksesreka.com](https://blogpanel.aksesreka.com/seopov2)
-
 ---
 
 ## Overview
