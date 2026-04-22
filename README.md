@@ -105,7 +105,6 @@ app/
 | Auth / Roles | Laravel Sanctum + Spatie Permission v7.3 |
 | SEO Data | Google Search Console API, Spatie Sitemap |
 | Activity Log | Spatie ActivityLog |
-| Hosting | Hostinger Shared (cPanel) |
 
 ---
 
